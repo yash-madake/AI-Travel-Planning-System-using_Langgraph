@@ -1,1 +1,1 @@
-# Multi-Ahent AI Systems
+# Multi-Agent AI Systems
